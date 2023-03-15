@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+img {
+    width: 351px;
+    height: 113px;
+}
+
+.center {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+#search-input {
+    width: 309px;
+}
+
+.search-part {
+    background-color: rgb(238, 238, 238);
+}
+
+.part1 {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+}
+
+.part2 {
+    background-color: rgb(112, 204, 194);
+    
+}
+
+.part3 {
+    background-color: rgb(98, 179, 170);    
+}
+
+.font-small {
+    font-size: small;
+}
+
+.font-medium {
+    font-size: medium;
+}
